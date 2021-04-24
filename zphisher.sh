@@ -264,8 +264,8 @@ about() {
 		${GREEN}Social   ${RED}:  ${CYAN} telegram id -@ZihadAhmed
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed ${RESETBG}
+		${REDBG}${WHITE} Thanks : yasin and hridoy love you brothers 
+								 ${RESETBG}
 
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
